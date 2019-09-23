@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>1.0.2</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+	<description>$description$</description>
+		<releaseNotes>Code cleanup in Basic Auth Attribute; enhanced SmtpEmailer class</releaseNotes>
+		<copyright>Copyright 2018</copyright>
+	</metadata>
+	<files>    
+		<file src="Lib\amqmdnet.dll" target="lib\net45" />
+		<file src="Lib\amqmdxcs.dll" target="lib\net45" />
+	</files>
+</package>
